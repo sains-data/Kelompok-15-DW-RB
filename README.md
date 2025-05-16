@@ -47,9 +47,5 @@ KELOMPOK-15-DW-RB/
 * **GitHub** – Manajemen versi dan dokumentasi kolaboratif.
 
 ---
-## 📚 Referensi
-
-
----
 ## 👤 Tentang Kami
 Proyek ini dikembangkan oleh mahasiswa Program Studi Sains Data, Fakultas Sains, Institut Teknologi Sumatera (ITERA), sebagai bagian dari Tugas Besar Mata Kuliah Pergudangan Data tahun 2025.
