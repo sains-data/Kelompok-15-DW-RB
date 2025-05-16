@@ -29,7 +29,7 @@ Transportasi maritim merupakan sektor bisnis global yang sangat kompleks dan men
 
 ---
 ## **📊 Fakta & Dimensi**
-![Star Schema](images/star_schema.jpg)
+![Star Schema](images/Star Schema.jpg)
 Arsitektur data warehouse pada sistem ini menggunakan pendekatan multidimensional untuk mendukung analisis operasional kapal. Struktur ini terdiri dari satu tabel fakta utama, *`Fact_Ship_Data`*, yang mencatat aktivitas dan performa kapal, serta beberapa tabel dimensi yang menyediakan konteks analitik seperti kondisi cuaca, sensor kapal, waktu, rute, posisi kapal, navigasi, dan kapal itu sendiri. Tabel fakta dan dimensi ini saling terhubung melalui kunci asing, memungkinkan analisis yang lebih mendalam dan komprehensif terhadap data kapal.
 
 ---
