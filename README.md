@@ -46,7 +46,7 @@ KELOMPOK-15-DW-RB/
 ---
 ## 🛠️ Alat & Teknologi yang digunakan
 * **SQL** – Untuk pengelolaan database dan eksekusi query.
-* **DrawIO** – Untuk perancangan diagram skema bintang dan ERD.
+* **DrawIO** – Untuk perancangan diagram skema bintang.
 * **GitHub** – Manajemen versi dan dokumentasi kolaboratif.
 
 ---
