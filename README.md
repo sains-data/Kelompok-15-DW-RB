@@ -34,6 +34,9 @@ KELOMPOK-15-DW-RB/
 ├── README.md
 ├── /images                 # Gambar dan visualisasi
 ├── /reports                # Laporan dan dokumentasi
+│   ├── /1_Spesifikasi Kebutuhan        
+│   ├── /2_Skema Data Konseptual
+│   ├── /3_Skema Data Logikal & Fisikal   
 └── /scripts                # Kode untuk ETL dan transformasi data
     ├── bronze/
     ├── silver/
