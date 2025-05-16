@@ -34,8 +34,6 @@ KELOMPOK-15-DW-RB/
 ├── README.md
 ├── /images                 # Gambar dan visualisasi
 ├── /reports                # Laporan dan dokumentasi
-│   ├── Misi2_Final.pdf
-│   └── Misi3_DesignDocument.pdf
 └── /scripts                # Kode untuk ETL dan transformasi data
     ├── bronze/
     ├── silver/
