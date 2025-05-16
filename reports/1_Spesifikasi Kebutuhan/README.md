@@ -4,11 +4,11 @@
 
 ---
 ## **📃 Daftar Isi**
-1. [Profil Industri & Masalah Bisnis](#L14)
-2. [Daftar Departemen & Tujuan Bisnis](#L18)
-3. [Fakta & Dimensi](#L31)
-4. [Sumber Data & Meta Data](#L35)
-5. [Referensi](#L50)
+1. [Profil Industri & Masalah Bisnis](#-profil-industri--masalah-bisnis)
+2. [Daftar Departemen & Tujuan Bisnis](#-daftar-departemen--tujuan-bisnis)
+3. [Fakta & Dimensi](#-fakta--dimensi)
+4. [Sumber Data & Meta Data](#%EF%B8%8F-sumber-data--meta-data)
+5. [Referensi](#-referensi)
 
 --- 
 ## **🚢🔍 Profil Industri & Masalah Bisnis**
