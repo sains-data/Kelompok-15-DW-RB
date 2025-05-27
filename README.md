@@ -1,4 +1,4 @@
-# Perancangan Arsitektur Data Warehouse untuk Optimalisasi Kinerja Kapal Berbasis Big Data
+# Implementasi Medallion Architecture dengan Apache Spark untuk Pengelolaan dan Pengelompokan Data Transaksi E-Commerce
 
 Selamat datang di repositori proyek **Data Warehouse untuk Optimalisasi Kinerja Kapal Berbasis Big Data**! 🚢\
 Proyek ini menampilkan solusi lengkap dalam merancang arsitektur data warehouse yang bertujuan untuk mendukung pengambilan keputusan strategis dalam sektor operasional kapal. Dikembangkan sebagai bagian dari tugas besar akademik, repositori ini mengintegrasikan praktik terbaik dalam pemodelan data multidimensi, perancangan pipeline ETL, serta analisis berbasis data yang relevan dengan kebutuhan industri pelayaran modern.
